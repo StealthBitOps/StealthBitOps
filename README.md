@@ -42,7 +42,7 @@ Thanks for stopping by! Let’s make tech safer, smarter, and a little more huma
 
 | Name                         | Topic                                                                 |
 |-----------------------------|------------------------------------------------------------------------|
-| How to Use TryHackMe        | <a href="">Guidance</a> |
+| How to Use TryHackMe        | <a href="https://github.com/StealthBitOps/Pentesting-Fundamentals.git">Guidance</a> |
 | Pentesting Fundamentals     | <a href="">Pentesting</a> |
 | The Hacker Methodology      | <a href="">Pentesting Methodology</a> |
 | Nmap Live Host Discovery    | <a href="">Scanning</a>             |
