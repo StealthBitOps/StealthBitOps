@@ -28,7 +28,7 @@ If you’re in **cybersecurity**, **healthcare IT**, or have made a similar care
 
 ---
 
-#### What You'll Find Here
+## What You'll Find Here
 - Walkthroughs (_no spoilers—just process and tools_)  
 - Notes on cybersecurity concepts 
 - Badges and milestones from my learning path  
