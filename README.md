@@ -42,21 +42,21 @@ Thanks for stopping by! Let’s make tech safer, smarter, and a little more huma
 
 | Name                         | Topic                                                                 |
 |-----------------------------|------------------------------------------------------------------------|
-| How to Use TryHackMe        | <a href="https://github.com/StealthBitOps/Pentesting-Fundamentals.git">Guidance</a> |
-| Pentesting Fundamentals     | <a href="">Pentesting</a> |
-| The Hacker Methodology      | <a href="">Pentesting Methodology</a> |
-| Nmap Live Host Discovery    | <a href="">Scanning</a>             |
-| Nmap                        | <a href="">Scanning</a>        |
-| Nessus                      | <a href="">Vulnerability Scanning</a> |
-| H4cked                      | <a href="">Wireshark</a>            |
-| Carnage                     | <a href="">Wireshark</a>         |
-| Intro to Cryptography       | <a href="">Crypto</a>   |
-| Breaking RSA                | <a href="">Crypto</a>             |
-| Crack the Hash              | <a href="">Crypto</a>         |
-| Crack the Hash Level 2      | <a href="">Crypto</a>   |
-| Brute It                    | <a href="">Crypto/Pentesting</a>   |
-| WiFi Hacking 101            | <a href="">WiFi</a>         |
-| Linux Priv Esc              | <a href="">File Permissions+</a> |
+| How to Use TryHackMe        | **Guidance** |
+| Pentesting Fundamentals     | <a href="https://github.com/StealthBitOps/Pentesting-Fundamentals.git">Pentesting</a>  |
+| The Hacker Methodology      | <a href="https://github.com/StealthBitOps/The-Hacker-Methodology.git">Pentesting Methodology</a>  |
+| Nmap Live Host Discovery    | <a href="https://github.com/StealthBitOps/Nmap-Live-Host-Discovery.git">Scanning</a>  |
+| Nmap                        | <a href="https://github.com/StealthBitOps/Nmap.git">Scanning</a>  |
+| Nessus                      | <a href="https://github.com/StealthBitOps/Nessus.git">Vulnerability Scanning</a>  |
+| H4cked                      | <a href="https://github.com/StealthBitOps/H4cked.git">Wireshark</a>  |
+| Carnage                     | <a href="https://github.com/StealthBitOps/Carnage.git">Wireshark</a>  |
+| Intro to Cryptography       | <a href="https://github.com/StealthBitOps/Intro-to-Cryptography.git">Crypto</a>  |
+| Breaking RSA                | <a href="https://github.com/StealthBitOps/Breaking-RSA.git">Crypto</a>  |
+| Crack the Hash              | <a href="https://github.com/StealthBitOps/Crack-the-Hash.git">Crypto</a>  |
+| Crack the Hash Level 2      | <a href="https://github.com/StealthBitOps/Crack-the-Hash-Level-2.git">Crypto</a>   |
+| Brute It                    | <a href="https://github.com/StealthBitOps/Brute-It.git">Crypto/Pentesting</a>   |
+| WiFi Hacking 101            | <a href="https://github.com/StealthBitOps/WiFi-Hacking-101.git">WiFi</a>         |
+| Linux Priv Esc              | <a href="https://github.com/StealthBitOps/Linux-Priv-Esc.git">File Permissions+</a> |
 
 ---
 
