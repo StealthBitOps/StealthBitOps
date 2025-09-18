@@ -38,25 +38,25 @@ Thanks for stopping by! Let’s make tech safer, smarter, and a little more huma
 ---
 
 ## 📋 Labs
-#### TryHackMe Free Labs
+#### TryHackMe Labs
 
 | Name                         | Topic                                                                 |
 |-----------------------------|------------------------------------------------------------------------|
-| How to Use TryHackMe        | <a href="https://tryhackme.com/r/room/howtousetryhackme">Guidance</a> |
-| Pentesting Fundamentals     | <a href="https://tryhackme.com/r/room/pentestingfundamentals">Pentesting</a> |
-| The Hacker Methodology      | <a href="https://tryhackme.com/r/room/hackermethodology">Pentesting Methodology</a> |
-| Nmap Live Host Discovery    | <a href="https://tryhackme.com/r/room/nmap01">Scanning</a>             |
-| Nmap                        | <a href="https://tryhackme.com/r/room/furthernmap">Scanning</a>        |
-| Nessus                      | <a href="https://tryhackme.com/r/room/rpnessusredux">Vulnerability Scanning</a> |
-| H4cked                      | <a href="https://tryhackme.com/r/room/h4cked">Wireshark</a>            |
-| Carnage                     | <a href="https://tryhackme.com/r/room/c2carnage">Wireshark</a>         |
-| Intro to Cryptography       | <a href="https://tryhackme.com/r/room/cryptographyintro">Crypto</a>   |
-| Breaking RSA                | <a href="https://tryhackme.com/r/room/breakrsa">Crypto</a>             |
-| Crack the Hash              | <a href="https://tryhackme.com/r/room/crackthehash">Crypto</a>         |
-| Crack the Hash Level 2      | <a href="https://tryhackme.com/r/room/crackthehashlevel2">Crypto</a>   |
-| Brute It                    | <a href="https://tryhackme.com/r/room/bruteit">Crypto/Pentesting</a>   |
-| WiFi Hacking 101            | <a href="https://tryhackme.com/r/room/wifihacking101">WiFi</a>         |
-| Linux Priv Esc              | <a href="https://tryhackme.com/r/room/linprivesc">File Permissions+</a> |
+| How to Use TryHackMe        | <a href="">Guidance</a> |
+| Pentesting Fundamentals     | <a href="">Pentesting</a> |
+| The Hacker Methodology      | <a href="">Pentesting Methodology</a> |
+| Nmap Live Host Discovery    | <a href="">Scanning</a>             |
+| Nmap                        | <a href="">Scanning</a>        |
+| Nessus                      | <a href="">Vulnerability Scanning</a> |
+| H4cked                      | <a href="">Wireshark</a>            |
+| Carnage                     | <a href="">Wireshark</a>         |
+| Intro to Cryptography       | <a href="">Crypto</a>   |
+| Breaking RSA                | <a href="">Crypto</a>             |
+| Crack the Hash              | <a href="">Crypto</a>         |
+| Crack the Hash Level 2      | <a href="">Crypto</a>   |
+| Brute It                    | <a href="">Crypto/Pentesting</a>   |
+| WiFi Hacking 101            | <a href="">WiFi</a>         |
+| Linux Priv Esc              | <a href="">File Permissions+</a> |
 
 ---
 
