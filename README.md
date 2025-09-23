@@ -58,6 +58,12 @@ Thanks for stopping by! Let’s make tech safer, smarter, and a little more huma
 | WiFi Hacking 101            | <a href="https://github.com/StealthBitOps/WiFi-Hacking-101.git">WiFi</a>         |
 | Linux Priv Esc              | <a href="https://github.com/StealthBitOps/Linux-Priv-Esc.git">File Permissions+</a> |
 
+#### Cyber Games UK
+| Name                                     | Topic                                                                                 |
+|------------------------------------------|---------------------------------------------------------------------------------------|
+| Digital Footprint Awareness              | <a href="https://github.com/StealthBitOps/Cyber-Games-UK-Data-Leak.git">Data Leak</a> |
+| Cyber Puzzle Missions                    | <a href="https://github.com/StealthBitOps/Cyber-Games-UK-Cyber-Challenge-in-a-Box-CCIAB-.git">Cyber Challenge in a Box (CCIAB)</a> |
+
 ---
 
 ## 🛠️ Tools
