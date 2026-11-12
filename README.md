@@ -1,13 +1,30 @@
-### Start Here: Lucie’s Cybersecurity Wiki
+### Penetration Testing & Offensive Security Portfolio
 
-Welcome! This repo is just the doorway, the real action happens in the [Wiki](https://github.com/StealthBitOps/StealthBitOps/wiki).
+**CREST CPSA Certified (_May 2026_)** | Preparing for **CREST CRT** | **BEng General Engineering**
 
-Whether you're a **recruiter** curious about my pivot from clinical tech to cybersecurity, or a fellow **career shifter** navigating your own path, the Wiki is where I document:
+I am an offensive security practitioner transitioning from 10+ years of medical device support and patient data management systems engineering (_ZEISS Medical Technology & NHS_). I combine deep troubleshooting and regulated compliance discipline with hands-on web application testing, network exploitation, and CREST-standard technical reporting.
 
-- 🧪 Labs and walkthroughs from platforms like TryHackMe and VulnHub  
-- 🧠 Notes on cybersecurity concepts and tools  
-- 🏅 Milestones from my learning journey  
+---
 
-It’s part sandbox, part showcase, and 100% hands-on.
+#### Featured Deliverables & Research
 
-Thanks for stopping by, dive into the [Wiki](https://github.com/StealthBitOps/StealthBitOps/wiki) and explore what I’ve been building.
+* **[Software Supply Chain Attack Lab (`supply-chain-attack-lab`)](https://github.com/StealthBitOps/supply-chain-attack-lab)**  
+  Automated, rerunnable lab simulating npm dependency confusion (**_MITRE ATT&CK T1195.002_**) and DNS TXT-record exfiltration, engineered alongside defensive countermeasures (_scoped packages, registry pinning, and Verdaccio quarantine controls_).
+
+* **[Black-Box Infrastructure Penetration Test Report (`VulnHub Full Report`)](https://github.com/StealthBitOps/StealthBitOps/wiki/Full-Report)**  
+  Formal engagement deliverable structured to CREST standards, featuring an executive summary, CVSS v3 risk scoring, PoC evidence, lateral movement analysis, and actionable remediation.
+
+* **[Web-to-Root Attack-Chain Assessment (`HackTheBox: Vaccine`)](https://github.com/StealthBitOps/StealthBitOps/wiki/Vaccine)**  
+  End-to-end technical assessment (anonymous FTP → archive cracking → SQL injection → PostgreSQL shell → SSH pivot → `sudo vi` privilege escalation) documented with strict secret-handling hygiene and hardening guidance.
+
+---
+
+#### Core Testing Capabilities
+
+* **Web Application Testing:** OWASP Top 10, Burp Suite, SQLmap, authentication bypass, input validation, and session hardening.
+* **Infrastructure & Privilege Escalation:** Nmap, Nessus, SMB/FTP/Tomcat enumeration, Linux privilege escalation (`SUID`, `sudo`, `cron`), credential auditing (`John the Ripper`, `Hashcat`).
+* **Technical Reporting:** Clear, business-aligned vulnerability reports written for both engineering teams and non-technical stakeholders.
+
+---
+
+📂 *Additional lab engagements, methodology notes, and tool walkthroughs are archived in the **[Wiki](https://github.com/StealthBitOps/StealthBitOps/wiki)**.*
